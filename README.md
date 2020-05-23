@@ -1,6 +1,9 @@
 # OData + ASPNET Core WebApi 3.1 + Entity Framework Core
 **OData** aplicado a **ASP.NET Core WebApi 3.1** utilizando **Entity Framework Core**.
 
+## Video Youtube
+[📚 𝖮𝖣𝖺𝗍𝖺 + 𝖤𝗇𝗍𝗂𝗍𝗒 𝖥𝗋𝖺𝗆𝖾𝗐𝗈𝗋𝗄 + 𝖠𝖲𝖯.𝖭𝖤𝖳 𝖢𝗈𝗋𝖾 𝖶𝖾𝖻𝖠𝗉𝗂 𝟥.𝟣 📝🔎](https://youtu.be/xsCiXMzAVQ8)
+
 ## Herramientas necesarias ejecutar y probar este proyecto
 - [x] SQL Server Developer Edition
 - [x] SQL Server Management Studio
@@ -84,7 +87,6 @@ FROM Personas per
 [Documento de Microsoft](https://docs.microsoft.com/en-us/odata/webapi/odata-security)
 
 ## Links del video
-- Seguridad: https://docs.microsoft.com/en-us/odata/webapi/odata-security
 - Ejemplos OData: https://github.com/OData/ODataSamples
 - URL OData: http://docs.oasis-open.org/odata/odata/v4.01/odata-v4.01-part2-url-conventions.html#sec_URLComponents
 
