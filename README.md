@@ -1,5 +1,5 @@
 # OData + ASPNET Core WebApi 3.1 + Entity Framework Core
-**OData** aplicado a **ASP.NET Core WebApi 3.1** utilizando **Entity Framework Core**.
+**OData** aplicado a **ASP.NET Core WebApi 3.1** utilizando **Entity Framework Core**. 📇 📋 📂
 
 ## Video Youtube
 [📚 𝖮𝖣𝖺𝗍𝖺 + 𝖤𝗇𝗍𝗂𝗍𝗒 𝖥𝗋𝖺𝗆𝖾𝗐𝗈𝗋𝗄 + 𝖠𝖲𝖯.𝖭𝖤𝖳 𝖢𝗈𝗋𝖾 𝖶𝖾𝖻𝖠𝗉𝗂 𝟥.𝟣 📝🔎](https://youtu.be/xsCiXMzAVQ8)
