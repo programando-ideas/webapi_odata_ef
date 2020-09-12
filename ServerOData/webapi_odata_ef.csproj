@@ -1,11 +1,12 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <GenerateRuntimeConfigurationFiles>True</GenerateRuntimeConfigurationFiles>
-    <UserSecretsId>038ed5b3-ad9a-4f18-ac0d-9f14da8ffde0</UserSecretsId>
     <PackageProjectUrl>https://github.com/programando-ideas/webapi_odata_ef</PackageProjectUrl>
     <Copyright>Programando Ideas</Copyright>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <GenerateTargetFrameworkAttribute>false</GenerateTargetFrameworkAttribute>
+    <UserSecretsId>d3d546a2-5bfb-4ef8-a2eb-2377901a957c</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>

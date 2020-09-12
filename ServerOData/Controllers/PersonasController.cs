@@ -17,6 +17,7 @@ namespace odatawebapi.Controllers
         }
 
         [EnableQuery]
+        [Route("persona")]
         public IEnumerable<Persona> Get()
         {
             return _contex.Persona;
