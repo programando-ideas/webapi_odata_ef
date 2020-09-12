@@ -11,7 +11,18 @@
 - [x] .net Core 3.1
 - [x] PostMan
 
+## Referencias de importancia
+ - Extension para Visual Studio
+    - https://marketplace.visualstudio.com/items?itemName=unchase.UnchaseODataConnectedService
+    - https://devblogs.microsoft.com/odata/tutorial-sample-how-to-use-odata-client-code-generator-to-generate-client-side-proxy-class/
+ - Cliente OData con HttpClient: https://docs.microsoft.com/es-es/odata/client/using-httpclient
+ 
 ## Configuraciones del proyecto
+### ClienteOData
+Cliente de ejemplo utilizando HttpClient
+### ServerOData
+WebApi con OData
+
 #### Agregar al archivo del proyecto webapi_odata_ef.csproj
 ```xml
 <GenerateRuntimeConfigurationFiles>True</GenerateRuntimeConfigurationFiles>
